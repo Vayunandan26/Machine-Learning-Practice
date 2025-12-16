@@ -1,0 +1,6 @@
+The result we got by using the same dataset for all the algorithms is that :
+1. Decision trees was the best algorithm in terms of speed and accuracy. It also generalized the model well
+2. SVM classifier took the most time which is not suitable even thought the generalization is pretty good
+3. KNN overfitted the model partly because of it's insensitivty to outliers and poor understanding of the dependency between features
+4. Logistic Regression performed well but the accuracy was in 80's
+5. Naive bayes was the fastest but the accuracy isn't satisfying
